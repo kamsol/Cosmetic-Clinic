@@ -30,21 +30,21 @@
     <div class="row hjemDiv">
 
         <div class="col-lg-4 col-sm-4 ">
-                <img class="img-responsive img-circle animated wow fadeInUp"  src="http://clinique-linstant.no/image/makeup-pink.jpg" alt"makeup bildet" />
+                <img class="img-responsive img-circle animated wow fadeInUp"  src="http://clinique-linstant.no/image/makeup-pink.jpg" alt="makeup bildet" />
                 <h2>Makeup</h2>
                 <p class="animated wow fadeInUp">Vår makeup pakke består av ulike pleiende midler som kremer, lotioner, pulver, pudder og gel  for huden</p>
         </div>
 
 
         <div class="col-lg-4 col-sm-4 ">
-                <img class="img-responsive img-circle animated wow fadeInUp"  src="http://clinique-linstant.no/image/ansikt.jpg" alt"ansiktbehandling bildet"/>
+                <img class="img-responsive img-circle animated wow fadeInUp"  src="http://clinique-linstant.no/image/ansikt.jpg" alt="ansiktbehandling bildet"/>
                 <h2>Ansiktsbehandling </h2>
                 <p class="animated wow fadeInUp">Vår Ansiktsbehandling består av Rens, Peeling, utklemming, Microneedling, Ansiktsmassasje og maske</p>
         </div>    
 
 
         <div class="col-lg-4 col-sm-4 ">
-                <img class="img-responsive img-circle animated wow fadeInUp"  src="http://clinique-linstant.no/image/foot.jpg" alt"footpleie bildet"/>
+                <img class="img-responsive img-circle animated wow fadeInUp"  src="http://clinique-linstant.no/image/foot.jpg" alt="footpleie bildet"/>
                 <h2>Fotpleie</h2>
                 <p class="animated wow fadeInUp">Vår fotpleie pakke består av Kosmetisk behandling av fotens hud og negler</p>
         </div>
@@ -65,21 +65,21 @@
                 <div class="row imageHolderDiv" >
 
                 <div class="col-lg-3 col-sm-6 ">
-                   <img class="img-responsive  " src="http://clinique-linstant.no/image/ansikt1.png" alt"ansikt1 bildet"/>             
+                   <img class="img-responsive  " src="http://clinique-linstant.no/image/ansikt1.png" alt="ansikt1 bildet"/>             
                 </div>
     
 
                  <div class="col-lg-3 col-sm-6 ">
-                   <img class="img-responsive " src="http://clinique-linstant.no/image/ansikt3.png" alt"ansikt2 bildet"/>             
+                   <img class="img-responsive " src="http://clinique-linstant.no/image/ansikt3.png" alt="ansikt2 bildet"/>             
                 </div> 
                 
     
                  <div class="col-lg-3 col-sm-6 ">
-                   <img class="img-responsive " src="http://clinique-linstant.no/image/ansikt2.png" alt"ansikt3 bildet"/>             
+                   <img class="img-responsive " src="http://clinique-linstant.no/image/ansikt2.png" alt="ansikt3 bildet"/>             
                 </div>
     
                 <div class="col-lg-3 col-sm-6 ">
-                   <img class="img-responsive " src="http://clinique-linstant.no/image/ansikt4.png" alt"ansikt4 bildet"/>             
+                   <img class="img-responsive " src="http://clinique-linstant.no/image/ansikt4.png" alt="ansikt4 bildet"/>             
                 </div>
 
                 </div>
