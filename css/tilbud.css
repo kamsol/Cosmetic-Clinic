@@ -1,8 +1,7 @@
-
     
 body{
     
-    background:#fdcffd ;
+    background:#f8d2f8 ;
     padding-top: 50px;
      width: 100%;
     max-width: 650px;
@@ -28,8 +27,8 @@ body{
     background:linear-gradient(to bottom,  #dcc4fc,#fff 30%,#fff 95%);
     text-align: center;
     margin: 20px auto ;     
-    padding: 10px 5px 30px;
-    min-height:600px;    
+    padding: 5px 5px 30px;
+    min-height:650px;    
     -webkit-box-shadow: -2px 0px 2px 0px #4e4d4d, 2px 0px 2px 0px #4e4d4d;
     -moz-box-shadow: -2px 0px 2px 0px #4e4d4d, 2px 0px 2px 0px #4e4d4d;
     box-shadow: -2px 0px 2px 0px #4e4d4d, 2px 0px 2px 0px #4e4d4d;
@@ -44,23 +43,26 @@ body{
     text-decoration: underline;
     letter-spacing: 3px;
     font-weight: 600;
-    margin-bottom: 30px;
+    margin-bottom: 12px;
         
         
      }
      
 .wrapDiv p{
-    
-    padding: 10px;
+    margin:auto;
+    margin: 0px auto 10px;
     text-align: center , justify;
     font-size: 16px;
-    font-family: serif
+    font-family: Georgia, serif;
+    max-width:580px;    
+    color:#310450
+
 }
 
 .wrapDiv img{
     
     width: 100%;
-    max-height: 250px;
+    max-height: 230px;
     position: absolute;
     bottom: 0;
     right: 0;

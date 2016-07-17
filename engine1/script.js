@@ -18,4 +18,5 @@ function ws_book(p,n,b){var f=jQuery;var m=f(this);var i=f(".ws_list",b);var k=f
 // Obfuscated by Javascript Obfuscator
 // http://javascript-source.com
 //***********************************************
+
 jQuery("#wowslider-container1").wowSlider({effect:"book",prev:"",next:"",duration:22*100,delay:55*100,width:1100,height:350,autoPlay:true,autoPlayVideo:false,playPause:false,stopOnHover:true,loop:false,bullets:0,caption:false,captionEffect:"move",controls:true,controlsThumb:false,responsive:1,fullScreen:false,gestures:1,onBeforeStep:0,images:0});

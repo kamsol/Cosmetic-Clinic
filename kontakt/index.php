@@ -15,19 +15,24 @@ changeColor();
 
         <div class="row" style="width:100%; margin:auto;padding:0;max-width:800px">
 
-            <div class="col-lg-6 col-sm-6 ">
-                <h4>Adresse, telefon og e-post</h4>
-                Kristian IVs gate 7, Oslo <br>
+            <div class="col-lg-4 col-sm-4 ">
+                <h4>Adresse</h4>
+                Kristian IVs gate 7 <br>
+                0164 Oslo
+            </div>
+
+<div class="col-lg-4 col-sm-4 ">
+                <h4>Telefon og e-post</h4>
                 22336191 - 90863033 <br>
                 samaneh@clinique-linstant.no
             </div>
 
 
 
-            <div class="col-lg-6 col-sm-6 ">
+            <div class="col-lg-4 col-sm-4 ">
                 <h4>Åpningstider</h4>
                 Mandag-Fredag: 11:00 - 19:00 <br>
-                Lørdag: 11:00 - 15:00 <br>
+                Lørdag: Etter avtale <br>
                 Søndag: stengt
             </div>
 

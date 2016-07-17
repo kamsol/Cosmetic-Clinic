@@ -38,26 +38,43 @@
                     
                     
                 
-<img class="img-responsive topImage" src="http://clinique-linstant.no/image/1.png" >
+<img class="img-responsive topImage" src="http://clinique-linstant.no/image/top2.png" >
 
-                     
+        
     
-               
+    
+    <nav id="menu">
+<ul>
 
-                                                                       
-        <div id="menu">                                                                 
-             
-                    
-                    <a id="hjem" onclick="changeStyle(this)" href="/" >hjem</a> 
-                    <a id="om" onclick="changeStyle(this)" href="/om-oss/">Om oss</a> 
-                    <a id="tjeneste" onclick="changeStyle(this)" href="/tjenste/">Tjeneste</a> 
-                    <a id="kontakt" onclick="changeStyle(this)"  href="/kontakt/">Kontakt</a>
-                     
-                                                      
-                                                                                       
-        </div>
-                    
+  
 
+  <li ><a id="hjem" onclick="changeStyle(this)" href="http://clinique-linstant.no/">Hjem</a></li>
+  <li ><a id="om" onclick="changeStyle(this)" href="http://clinique-linstant.no/om-oss/">Om Oss</a></li>
+  
+    
+   <li ><a id="tjeneste"  class="pointer" >Behandlinger <span class="arrow-down"></span></a>
+    <ul>
+      <li><a id="ansikstbehandling"  href="http://clinique-linstant.no/behandlinger/Ansikstbehandling">Ansikstbehandling</a></li>
+      <li><a  id="oyebehandling" href="http://clinique-linstant.no/behandlinger/Oyebehandling">Øyebehandling</a></li>
+      <li><a  id="makeup" href="http://clinique-linstant.no/behandlinger/makeup">Make up</a></li>
+      <li><a  id="harfjerning" href="http://clinique-linstant.no/behandlinger/Harfjerning">Hårfjerning</a></li>
+      <li><a id="handbehandling" href="http://clinique-linstant.no/behandlinger/Handbehandling">Håndbehandling</a></li>
+      <li><a id="kroppsbehandling" href="http://clinique-linstant.no/behandlinger/Kroppsbehandling" class="borderNone" >Kroppsbehandling</a></li>
+    </ul>
+  </li> 
+    
+    
+    
+    
+  <li ><a id="kontakt" onclick="changeStyle(this)"  href="http://clinique-linstant.no/kontakt/">Kontakt</a></li>
+</ul>
+</nav>
+    
+    
+    
+    
+    
+    
          
                     
                    
