@@ -3,7 +3,7 @@
 
   <div class="footer">
 
-    <p>Følge oss på sosiale medier</p>
+    <p>Følg oss på sosiale medier</p>
     
  
 	<a href="https://www.facebook.com/Clinique-Linstant-597305190389802/"><i id="facebook" class="iconLink fa fa-facebook fa-2x"></i></a>

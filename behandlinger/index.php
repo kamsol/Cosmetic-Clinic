@@ -17,7 +17,7 @@ changeColor();
       
         <p >Behandlinger & Prisliste</p>    
 
-        <img class="img-responsive  animated wow fadeInUp" src="http://clinique-linstant.no/image/list.jpg" alt"prisliste bildet" /> <br>      
+        <img class="img-responsive  animated wow fadeInUp" src="http://clinique-linstant.no/image/list.jpg"  /> <br>      
 
         <hr>
     

@@ -40,7 +40,7 @@
 
                     <tr  >
                     <th>Behandling</th>
-                    <th>Vannlig pris</th>
+                    <th>Vanlig pris</th>
                     <th>Tilbud pris</th>
                     </tr>
                 
