@@ -4,10 +4,7 @@ $(document).ready(function() {
     
 
    $('.pointer').click(function(){
-       // alert (str);
-    
-       // changeStyle(str);
-        
+   
     $('#menu ul ul').slideToggle();    
  })     
    
@@ -35,7 +32,7 @@ $('#menu ul li ul li a').removeClass('background');
 function changeBackground(id){   
 
 $('#menu ul li ul li a').removeClass('background');
-$('#'+id).addClass('background'); 
+$(this).addClass('background'); 
 
   
 }
