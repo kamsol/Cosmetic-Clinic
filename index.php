@@ -10,18 +10,12 @@
         <ul>
 
              <li><img src="data1/images/2.jpg" alt="slide2" title="slide2" id="wows1_6"/></li>
-             <li><img src="data1/images/skin11.jpg" alt="slider1" title="skin11" id="wows1_9"/></li>           
-                  
-            <li><img src="data1/images/skin2.jpg" alt="skin3" title="skin3" id="wows1_0"/></li>
-            <li><img src="data1/images/4.jpg" alt="slide5" title="slide5" id="wows1_5"/></li>
-            <li><img src="data1/images/slide2.jpg" alt="slide5" title="slide5" id="wows1_5"/></li>
-            <li><img src="data1/images/rsz_botox.jpg" alt="skin4" title="skin4" id="wows1_2"/></li>
-            
-           <!-- <li><img src="data1/images/img07.jpg" alt="slide06" title="img06" id="wows1_8"/></li>
-            </li>
-
-<li><img src="data1/images/rsz_facial.jpg" alt="slider1" title="skin11" id="wows1_9"/></li>
-            <li><img src="data1/images/skin11.jpg" alt="slider1" title="skin11" id="wows1_9"/></li>   -->
+             <li><img src="data1/images/skin11.jpg" alt="slider1" title="skin11" id="wows1_9"/></li>         
+             <li><img src="data1/images/skin2.jpg" alt="skin3" title="skin3" id="wows1_0"/></li>
+             <li><img src="data1/images/4.jpg" alt="slide5" title="slide5" id="wows1_5"/></li>
+             <li><img src="data1/images/slide2.jpg" alt="slide5" title="slide5" id="wows1_5"/></li>
+             <li><img src="data1/images/rsz_botox.jpg" alt="skin4" title="skin4" id="wows1_2"/></li>
+          
 
         </ul>
     </div>
@@ -103,7 +97,7 @@ avslappet atmosfære.
 
                 </div>
 
-    <p class="info">Øyeblikket tilhører deg <!--<br><strong style="font-size:25px;display:inline-block;color:red">C</strong>linique <b style="font-size:25px;color:red">L</b>instant --></p>
+    <p class="info">Øyeblikket tilhører deg </p>
 
 </div>
 
